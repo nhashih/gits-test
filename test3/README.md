@@ -1,5 +1,12 @@
-Buatlah tampilan website dengan menduplikasi hanya halaman Home gits.id dengan ketentuan sebagai berikut:
+# Screenshot and Record
+https://drive.google.com/drive/folders/1s2-zgI3xVSN8BUs_S2UZWvjKCfqhg-ZL?usp=drive_link
 
+
+
+
+
+# rules
+Buatlah tampilan website dengan menduplikasi hanya halaman Home gits.id dengan ketentuan sebagai berikut:
 Section header berupa introduction dari perushaan.
 Section services terdapat konten dengan scroll horizontal dan tombol untuk next/previous.
 Section portfolio terdapat konten grid dan tombol see all.
